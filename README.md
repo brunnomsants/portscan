@@ -1,2 +1,1 @@
-# portscan
-A port scan made in python
+A port scan made in python for educational purpose
